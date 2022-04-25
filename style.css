@@ -1,0 +1,45 @@
+:root{
+    /* primary */
+    --Very-Dark-Blue: hsl(243, 87%, 12%);
+    --Desaturated-Blue: hsl(238, 22%, 44%);
+
+    /* accent */
+    --Bright-Blue: hsl(224, 93%, 58%);
+    --Moderate-Cyan: hsl(170, 45%, 43%);
+
+    /* neutral */
+    --Light-Grayish-Blue: hsl(240, 75%, 98%);
+    --Light-Gray: hsl(0, 0%, 75%);
+}
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+.btn{
+    width:250px;
+}
+.get_started, form{
+    padding-left: 100px;
+}
+h1, nav, button {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+input{
+    width:350px; 
+    height: 50px;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+
+/* Headings, Call-to-actions, Header Navigation */
+/* font-family: 'Raleway', sans-serif; Weights: 400, 700 */
+
+/* Body
+font-family: 'Open Sans', sans-serif; Weights: 400 */
